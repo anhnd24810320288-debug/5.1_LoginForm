@@ -21,3 +21,5 @@
 ### 4. Ảnh sql
 <img width="1737" height="1025" alt="result2" src="https://github.com/user-attachments/assets/c364c92e-e80b-4f25-8fc7-270a9a33f264" />
 
+### Em sử dụng MySQL Server và MySQL Workbench để viết file sql script 
+### Còn trên visual code em cài gói NuGet MySql.Data
